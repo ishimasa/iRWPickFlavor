@@ -1,0 +1,6 @@
+module Pods_iRWPickFlavor {
+  umbrella header "Pods-iRWPickFlavor-umbrella.h"
+
+  export *
+  module * { export * }
+}
